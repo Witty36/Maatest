@@ -1,0 +1,11 @@
+{
+	"进入限时抽喵喵牌": {
+		"recognition": {
+			"type": "DirectHit",
+			"param": {}
+		},
+		"action": {
+			"type": "DoNothing",
+			"param": {}
+		}
+}
